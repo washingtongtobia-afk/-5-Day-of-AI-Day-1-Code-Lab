@@ -1,0 +1,6 @@
+{
+  "name": "The Grand Conservatory · Atmospheric Chamber",
+  "description": "A formal ceremonial and atmospheric simulation interface featuring calibrated snowflake precipitation and balloon ascents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
